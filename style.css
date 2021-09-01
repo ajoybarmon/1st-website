@@ -1,0 +1,26 @@
+.panda-card {
+  border: none !important;
+  background: lightcyan;
+}
+.panda-card-footer {
+  border: none !important;
+}
+.images {
+  height: 120px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.images img {
+  height: 100px;
+}
+.panda-slide .carousel-item {
+  background-color: #fceae8;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
